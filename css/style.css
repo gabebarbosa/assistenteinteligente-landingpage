@@ -1,0 +1,19 @@
+.text-primary {
+    color: #00796B !important;
+}
+
+.text-secondary {
+    color: #FF5722 !important;
+}
+
+.nav-background {
+    background-color: #00796B;
+}
+
+.nav-text {
+    color: #FFF;
+}
+
+body {
+    background-color: #FFF;
+}
